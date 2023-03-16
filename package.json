@@ -10,6 +10,9 @@
     "test": "jest",
     "lint": "eslint \"src/**/*\""
   },
+  "engines": {
+    "node": "17.8.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
